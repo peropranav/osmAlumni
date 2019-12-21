@@ -1,0 +1,196 @@
+.firstLetter
+{
+    font-size: 4rem!important;
+    font-family: Catamaran;
+    font-weight: 800!important;
+    margin-top: 85px;
+}
+.textAlignCenter
+{
+    text-align: center;
+}
+.projectTitle
+{
+    font-size: 3rem!important;
+    font-family: Catamaran;
+    font-weight: 800!important;
+}
+.pclassQuote
+{
+    color: #181818;
+padding: 0px;
+font-size: 14px;
+font-family: "Merriweather", "Georgia", serif;
+font-weight: normal;
+padding-bottom: 0px;
+line-height: 21px;
+font-weight: 800;
+}
+.belikepero
+{
+    margin-top: 100px;
+    font-size: 4rem!important;
+    font-family: Catamaran;
+    font-weight: 800!important;
+
+}
+.belikeperoSpecial
+{
+    color: #ee0979!important;
+
+}
+.marginTop100px
+{
+    margin-top: 100px;
+}
+.pClass
+{
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-size: 1.5rem!important;
+
+}
+.firstLetterSpecial
+{
+    color: #ee0979!important;
+
+}
+.imgPeroLetter
+{
+    border-radius: 50%!important;
+    max-width: 70%;
+    height: 357px;
+    vertical-align: middle;
+    border-style: none;
+}
+
+ @media screen and (max-width: 480px) {
+    .imgPeroLetter{
+    border-radius: 50%!important;
+    max-width: 100%;
+    height: 357px;
+    vertical-align: middle;
+    border-style: none;
+    }
+ }
+.me{
+    height: 300px;
+    width:300px;
+    margin-top: 10%;
+    box-shadow: 10px 10px 5px #888888;
+}
+body{
+ color: black;
+background-size: cover;
+}
+
+
+
+.social{
+padding-top: 4%;
+    width: 18%;
+    display: inline-block;
+
+}
+h1{
+
+    font-family: 'Lobster', cursive;
+
+}
+i{
+    text-shadow: 5px 5px 3px #888888;
+}
+i:hover{
+ text-shadow: 10px 10px 5px #888888;
+transition: 0.6s;
+}
+h2{
+    padding-top: 10%;
+    font-size: 300%;
+    font-family: 'Bree Serif', serif;
+
+}
+
+.skill{
+    display: inline-block;
+    padding: 2%;
+}
+.size{
+    box-shadow:10px 10px 5px #888888 ;
+    height: 60%;
+    width: 80%;
+}
+.project {
+    height: 300px;
+    width: 350px;
+    display: inline-block;
+    box-shadow: 5px 5px 3px #888888;
+}
+.testimonial {
+    height: 300px;
+    width: 350px;
+    display: inline-block;
+}
+.projectSet{
+display: inline-block;
+    padding: 2%;
+
+
+}
+h2{
+    padding: 0px;
+    font-family: 'Lobster', cursive;
+font-size: 35px;
+
+}
+.footerClass
+{
+    background: #000000;
+    height: 300px;
+    margin-top: 40px;
+
+}
+.footerGetTouch
+{
+    color: white;
+    margin-top: 54px;
+    font-size: 3rem!important;
+    font-family: Catamaran;
+    font-weight: 800!important;
+
+}
+.heart {
+    transform-origin: center;
+    color: red;
+}
+.colorWhite
+{
+    color: white;
+
+}
+.colorWhite:hover
+{
+
+    color: white!important;
+}
+.copyright
+{
+    color: white;
+    margin-top: 30px;
+}
+
+.footer {
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 2px; 
+    height: 50px;
+  }
+  .imgAmStyle{
+     width: 100%;
+      height: 250px;
+  }
